@@ -1,6 +1,8 @@
 # UFR Blois Development Web
 
 
+`ENV['proxy'] = "http://proxy:3128"`
+
 ## Play with Ruby online
 - [Ruby Online Interpreter](https://replit.com/languages/ruby)
 - [Ruby Doc](https://ruby-doc.org)
