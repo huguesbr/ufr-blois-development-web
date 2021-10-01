@@ -2,7 +2,9 @@
 
 ## Access Internet in the VM
 
-`ENV['http_proxy'] = "http://proxy:3128"`
+- `ENV['http_proxy'] = "http://proxy:3128"`
+- OR 
+- `export http_proxy="http://proxy:3128"`
 
 ## Play with Ruby online
 - [Ruby Online Interpreter](https://replit.com/languages/ruby)
