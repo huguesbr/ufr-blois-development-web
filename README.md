@@ -16,3 +16,6 @@
 2. Download the VM -> http://www.info.univ-tours.fr/ftp/utfr/diblois/etu/.ed536a06cf9a0ff2df7b7f552cb1c92b856cbecd04caf9d1fa729a6761067f70_utfr_diblois_vm_linux_centos8_webdeveloper/
 3. Extract VM (.rar)
 4. In VBox, Machine > Add, `20210914_utfr_diblois_vm_linux_centos8_developer_2021.vbox`
+
+# 
+https://gist.github.com/huguesbr/c3b9482bfcde50ad4c48bd247320aa92
