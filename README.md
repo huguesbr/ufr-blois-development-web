@@ -1,5 +1,8 @@
 # UFR Blois Development Web
 
+
+Tuto video sur l'utilisation de la VM -> https://www.loom.com/share/378cb391867f4e57a3223aa751285673
+
 ## Play with Ruby online
 - [Ruby Online Interpreter](https://replit.com/languages/ruby)
 - [Ruby Doc](https://ruby-doc.org)
