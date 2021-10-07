@@ -13,7 +13,6 @@ Tuto video sur l'utilisation de la VM -> https://www.loom.com/share/378cb391867f
 2. Launch a Terminal
 3. Launch `irb`
 4. Download the TD PDF
-5. Go to the TD live help -> https://1.101.fr/
 
 ## Access Internet in the VM at the **university**
 
