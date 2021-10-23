@@ -1,6 +1,5 @@
 # UFR Blois Development Web
 
-
 Tuto video sur l'utilisation de la VM -> https://www.loom.com/share/378cb391867f4e57a3223aa751285673
 
 ## Play with Ruby online
@@ -30,3 +29,7 @@ Tuto video sur l'utilisation de la VM -> https://www.loom.com/share/378cb391867f
    1. In the Virtual Machine, disable the proxy
       1. Navigate in the menu System > Preferences > Internet and Network > Network Proxy
       2. Disable the proxy by selecting "Direct Internet Connection"
+
+## Messenger App
+
+https://github.com/huguesbr/ufr-blois-development-web-messenger
