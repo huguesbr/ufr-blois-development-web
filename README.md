@@ -30,6 +30,11 @@ Tuto vidéo sur l'utilisation de la VM (avec postman, l'application rails, ...) 
    1. In the Virtual Machine, disable the proxy
       1. Navigate in the menu System > Preferences > Internet and Network > Network Proxy
       2. Disable the proxy by selecting "Direct Internet Connection"
+      3. Remove any http_proxy env
+         1. `unset http_proxy` 
+         2. `unset https_proxy` 
+         3. `unset HTTP_PROXY` 
+         4. `unset HTTPS_PROXY` 
 
 ## Messenger App
 
